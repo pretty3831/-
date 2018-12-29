@@ -1,6 +1,6 @@
-token=NTI3MzYyNzk1Mjk0MDMxODgy.DwS0XA.DFfZlqtJIyGYbwN1D-AN3HbEoXk
+NTI0ODM5Mzc3MjUyMjUzNjk2.DwiCwg.eXAzVeAWUGBjkPC8MryrAF61aBE
 owner=433198762706599936
-prefix=r
+prefix=/
 game= HAWADET SERVER
 stayinchannel=true
 songinstatus=true 
