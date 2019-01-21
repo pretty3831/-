@@ -1,6 +1,6 @@
-token=NTMxODU5NzAxNDc5MTEyNzE1.DxUEhA.H1s5UcfOghB7ukpCJ-Ru9Lpw4hs
+token=NTM2OTYzMTgzMzc0NDk5ODUy.DyeWjA.fdyY62RFEMjiWehyn28WlV2upOc
 owner=433198762706599936
-prefix=3
-game= 7akawy SERVER
+prefix=o
+game= ..
 stayinchannel=true
 songinstatus=true 
